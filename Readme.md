@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Ким](https://up.htmlacademy.ru/javascript/17/user/211297).
-* Наставник: `сам себе наставник`.
+* Наставник: `сам по себе`.
 
 ---
 
